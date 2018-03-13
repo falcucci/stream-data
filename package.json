@@ -1,0 +1,24 @@
+{
+  "name": "stream-data",
+  "description": "Collect the stream data and send it into a callback function.",
+  "keywords": [
+    "stream",
+    "data",
+    "collect",
+    "the",
+    "and",
+    "send",
+    "it",
+    "into",
+    "a",
+    "callback",
+    "function"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexsander Falcucci"
+}
